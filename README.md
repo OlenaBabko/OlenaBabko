@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://github.com/OlenaBabko/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=OlenaBabko&show_icons=true&theme=buefy&rank_icon=github" />
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=OlenaBabko&show_icons=true&theme=buefy&rank_icon=github" />
 </a>
 <a href="https://github.com/OlenaBabko/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=OlenaBabko&layout=compact&langs_count=8&card_width=320&theme=buefy&hide=html" />
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=OlenaBabko&layout=compact&langs_count=8&card_width=320&theme=buefy&hide=html" />
 </a>
