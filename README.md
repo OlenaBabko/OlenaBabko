@@ -1,10 +1,11 @@
 ### Hi there 👋
 
 <p></p>
-<p>🌱 I’m currently learning Python and SQL.</p>
-<p>And I also dive a little into cloud technologies thanks to Google Cloud Skills Boost.</p>
-<p>With these skills, I want to start my journey as a Data Analyst or Data Engineer. Maybe one day I will become a real Data Scientist 🤞</p>
-<p>I am interested in AR/VR, Blockchain, Computer Vision, Machine Learning, Artificial Intelligence and so on!</p>
+<p>🌱 I’m currently learning Python and SQL.<br>
+<p>And I also dive a little into cloud technologies thanks to Google Cloud Skills Boost.<br>
+<p>With these skills, I want to start my journey as a Data Analyst or Data Engineer. Maybe one day I will become a real Data Scientist 🤞<br>
+<p>I am interested in AR/VR, Blockchain, Computer Vision, Machine Learning, Artificial Intelligence and so on!
+</p>
 
 <!--
 **OlenaBabko/OlenaBabko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
