@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+🌱 I’m currently learning Python and SQL.
+And I also dive a little into cloud technologies thanks to Google Cloud Skills Boost.
+With these skills, I want to start my journey as a Data Analyst or Data Engineer. Maybe one day I will become a real Data Scientist 🤞
+I am interested in AR/VR, Blockchain, Computer Vision, Machine Learning, Artificial Intelligence and so on!
+
 <!--
 **OlenaBabko/OlenaBabko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
