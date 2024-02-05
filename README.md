@@ -6,7 +6,14 @@ And I also dive a little into cloud technologies thanks to Google Cloud Skills B
 With these skills, I want to start my journey as a Data Analyst or Data Engineer.<br> 
 Maybe one day I will become a real Data Scientist 🤞<br>
 I am interested in AR/VR, Blockchain, Computer Vision, Machine Learning, Artificial Intelligence and so on!
-</p>
+</p><br/>
+
+
+### Connect with me:<br/>
+[![Linkedin Badge](https://img.shields.io/badge/-black?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/olena-babko-03207540/)](https://www.linkedin.com/in/olena-babko-03207540/) 
+<br/>
+
+
 
 <!--
 **OlenaBabko/OlenaBabko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
