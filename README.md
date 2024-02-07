@@ -12,6 +12,9 @@ I am interested in AR/VR, Blockchain, Computer Vision, Machine Learning, Artific
 ### Connect with me:<br/>
 [![Linkedin Badge](https://img.shields.io/badge/-black?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/olena-babko-03207540/)](https://www.linkedin.com/in/olena-babko-03207540/) 
 <br/>
+[![Behance Badge](https://img.shields.io/badge/-black?logo=Behance&logoColor=white&link=https://www.behance.net/BabkoOlena)
+]
+
 
 
 
