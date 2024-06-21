@@ -14,6 +14,8 @@ I am interested in AR/VR, Blockchain, Computer Vision, Machine Learning, Artific
 [![Gmail Badge](https://img.shields.io/badge/-black?logo=Gmail&logoColor=white) ](mailto:elena.babko@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-black?logo=Telegram&logoColor=white&link=https://t.me/OlenaBabko)
 ](https://t.me/OlenaBabko)
+[![Twitter Badge](https://img.shields.io/badge/-black?logo=X&logoColor=white&link=https://twitter.com/lambda_3dArt)
+](https://twitter.com/lambda_3dArt)
 [![Behance Badge](https://img.shields.io/badge/-black?logo=Behance&logoColor=white&link=https://www.behance.net/BabkoOlena)
 ](https://www.behance.net/BabkoOlena)
 <br/>
