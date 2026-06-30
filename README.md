@@ -2,7 +2,7 @@
 
 
 <p></p>
-<p>🌱 I’m currently learning Python and SQL.<br>
+<p>Structure and planning turn effort into results — in sport and in data.<br>
 And I also dive a little into cloud technologies thanks to Google Cloud Skills Boost.<br>
 With these skills, I want to start my journey as a Data Analyst or Data Engineer.<br> 
 Maybe one day I will become a real Data Scientist 🤞<br>
