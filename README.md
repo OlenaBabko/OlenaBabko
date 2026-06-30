@@ -2,11 +2,14 @@
 
 
 <p></p>
-<p>Structure and planning turn effort into results — in sport and in data.<br>
-And I also dive a little into cloud technologies thanks to Google Cloud Skills Boost.<br>
-With these skills, I want to start my journey as a Data Analyst or Data Engineer.<br> 
-Maybe one day I will become a real Data Scientist 🤞<br>
-I am interested in AR/VR, Blockchain, Computer Vision, Machine Learning, Artificial Intelligence and so on!
+<p>Structure and planning turn effort into results — in sport and in data.<p><br>
+
+Data Analyst focused on data analysis, dashboards, and real-world problems.
+
+🔹 work with SQL & Python for data analysis  
+🔹 build dashboards and reports in Power BI / Tableau  
+🔹 enjoy structuring data, finding patterns, and turning data into clear insights
+<br>
 </p><br/>
 
 
