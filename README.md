@@ -10,6 +10,10 @@ Data Analyst focused on data analysis, dashboards, and real-world problems.
 🔹 build dashboards and reports in Power BI / Tableau  
 🔹 enjoy structuring data, finding patterns, and turning data into clear insights
 <br>
+
+Background in 3D, AR/VR and visual projects helps with strong data visualization
+and clear storytelling.
+
 </p><br/>
 
 
