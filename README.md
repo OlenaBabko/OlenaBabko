@@ -6,15 +6,22 @@
 
 Data Analyst focused on data analysis, dashboards, and real-world problems.
 
-🔹 work with SQL & Python for data analysis  
-🔹 build dashboards and reports in Power BI / Tableau  
-🔹 enjoy structuring data, finding patterns, and turning data into clear insights
+- Work with SQL & Python for data analysis  
+- Build dashboards and reports in Power BI / Tableau  
+- Enjoy structuring data, finding patterns, and turning data into clear insights
 <br>
 
 Background in 3D, AR/VR and visual projects helps with strong data visualization
 and clear storytelling.
 
 </p><br/>
+
+ Fun facts:
+- Candidate for Master of Sports (CMS) in two sports  
+- Silver medalist of the ARDF World Championship 2025 (team event)  
+- Member of the national teams in ARDF and Sport Orienteering(trail)  
+- Mom of 3 <p><br>
+
 
 
 ### Connect with me:<br/>
